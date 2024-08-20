@@ -1,0 +1,95 @@
+.titulo {
+    text-align: center;
+    font-family: 'Resident Evil', sans-serif;
+    font-size: larger;
+    background-color: rgba(58, 85, 53, 0.73);
+    color: rgb(188, 188, 132);
+    border-radius: 2%;
+}
+
+.marcadores {
+    text-align: center;
+    background-color: rgb(63, 77, 66);
+    border-radius: 3%;
+}
+
+* {
+    font-weight: 10;
+}
+
+h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    margin: 4%;
+    padding: 0;
+    background-color: black;
+}
+
+img {
+
+    width: 1398px;
+    height: 900px;
+    background-clip: inherit;
+}
+
+.texto {
+    background-color: rgb(44, 51, 41);
+    color: aliceblue;
+}
+
+a {
+    color: rgb(141, 153, 153);
+}
+
+.imginicio {
+    width: 70px;
+    height: 70px;
+}
+
+table {
+    margin: auto;
+    background-color: rgb(74, 93, 83);
+}
+
+thead {
+    background-color: rgb(43, 80, 57);
+}
+
+video {
+    background-color: rgb(44, 51, 41);
+    width: 500px;
+}
+
+.audi {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.fundoaudio {
+    text-align: center;
+
+}
+
+.armas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.t {
+    display: flex;
+    margin-right: 20px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 8px solid rgb(123, 90, 90);
+}
+
+.final {
+    text-align: center;
+}
